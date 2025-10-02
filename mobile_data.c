@@ -37,8 +37,9 @@ int main() {
             printf("have chosen 2 GB bundle. Cost: KES 600\n");
             break;
         default:
-            printf("Invalid choice! Please select between 1 and 4.\n");
+            printf("Invalid choice! ");
     }
 
 return 0;
 }
+
